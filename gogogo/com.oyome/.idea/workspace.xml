@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af7b7a8b-4f11-42a9-a8fb-73aed96dc35f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i7rdsqPQs6IQwODr7SP1WTTAG7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/oyome/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oyome.controller" />
+      <recent name="com.oyome.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\gogogo\com.oyome\foodie-dev-common\src\main\java\com\oyome\utils" />
+      <recent name="F:\spring5\spring-framework-master\com.oyome\foodie-dev-mapper\src\main\resources\mapper" />
+      <recent name="F:\spring5\spring-framework-master\com.oyome\foodie-dev-pojo\src\main\java\com\oyome\pojo" />
+      <recent name="F:\spring5\spring-framework-master\com.oyome\foodie-dev-mapper\src\main\java\com\oyome\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="foodie-dev-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oyome.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.oyome.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7b7a8b-4f11-42a9-a8fb-73aed96dc35f" name="Default Changelist" comment="" />
+      <created>1601269561918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601269561918</updated>
+      <workItem from="1601269564138" duration="10296000" />
+      <workItem from="1601342008091" duration="13901000" />
+      <workItem from="1601426956991" duration="12591000" />
+      <workItem from="1602206394757" duration="1309000" />
+      <workItem from="1602488972731" duration="1152000" />
+      <workItem from="1602551881585" duration="3144000" />
+      <workItem from="1602659974603" duration="825000" />
+      <workItem from="1602750039171" duration="29000" />
+      <workItem from="1604294087310" duration="21048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="153" key="#Project_Structure" timestamp="1601430859390">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="153" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1601430859390" />
+    <state x="405" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601278929016">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="405" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1601278929016" />
+    <state x="445" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1604369813087">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1604369813087" />
+    <state x="249" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601346262107">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="249" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.984@0.0.1280.984" timestamp="1601346262107" />
+    <state x="413" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1601346263760">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="413" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.984@0.0.1280.984" timestamp="1601346263760" />
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1604374228454">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="436" height="466" key="DebuggerActiveHint/0.0.1280.984@0.0.1280.984" timestamp="1604374228454" />
+    <state x="747" y="404" key="FileChooserDialogImpl" timestamp="1602750070282">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="747" y="404" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1602750070282" />
+    <state width="1200" height="203" key="GridCell.Tab.0.bottom" timestamp="1604379219870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="203" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1604379219870" />
+    <state width="1200" height="203" key="GridCell.Tab.0.center" timestamp="1604379219869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="203" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1604379219869" />
+    <state width="1200" height="203" key="GridCell.Tab.0.left" timestamp="1604379219869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="203" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1604379219869" />
+    <state width="1200" height="203" key="GridCell.Tab.0.right" timestamp="1604379219869">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="203" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1604379219869" />
+    <state width="1200" height="210" key="GridCell.Tab.1.bottom" timestamp="1604379219762">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1604379219762" />
+    <state width="1200" height="210" key="GridCell.Tab.1.center" timestamp="1604379219761">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1604379219761" />
+    <state width="1200" height="210" key="GridCell.Tab.1.left" timestamp="1604379219761">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1604379219761" />
+    <state width="1200" height="210" key="GridCell.Tab.1.right" timestamp="1604379219761">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1604379219761" />
+    <state width="1200" height="210" key="GridCell.Tab.2.bottom" timestamp="1604379219763">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.2.bottom/0.0.1280.984@0.0.1280.984" timestamp="1604379219763" />
+    <state width="1200" height="210" key="GridCell.Tab.2.center" timestamp="1604379219762">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.2.center/0.0.1280.984@0.0.1280.984" timestamp="1604379219762" />
+    <state width="1200" height="210" key="GridCell.Tab.2.left" timestamp="1604379219762">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.2.left/0.0.1280.984@0.0.1280.984" timestamp="1604379219762" />
+    <state width="1200" height="210" key="GridCell.Tab.2.right" timestamp="1604379219762">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1200" height="210" key="GridCell.Tab.2.right/0.0.1280.984@0.0.1280.984" timestamp="1604379219762" />
+    <state x="52" y="204" key="Maven.ArtifactSearchDialog" timestamp="1601429139721">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="52" y="204" key="Maven.ArtifactSearchDialog/0.0.1280.984@0.0.1280.984" timestamp="1601429139721" />
+    <state x="150" y="137" key="SettingsEditor" timestamp="1601284866025">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="150" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1601284866025" />
+    <state x="375" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1602750053386">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="375" y="346" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1602750053386" />
+    <state x="204" y="230" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601441800433">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="204" y="230" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.984@0.0.1280.984" timestamp="1601441800433" />
+    <state x="62" y="310" key="new project wizard" timestamp="1601361286106">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="62" y="310" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1601361286106" />
+    <state x="363" y="137" key="refactoring.ChangeSignatureDialog" timestamp="1604303919599">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="363" y="137" key="refactoring.ChangeSignatureDialog/0.0.1280.984@0.0.1280.984" timestamp="1604303919599" />
+    <state x="332" y="305" width="672" height="678" key="search.everywhere.popup" timestamp="1601270103227">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="332" y="305" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1601270103227" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/foodie-dev-service/src/main/java/com/oyome/service/impl/UserServiceImpl.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/oyome/controller/PassportController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/Sid.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/Sid.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/foodie-dev-common/src/main/java/org/n3r/idworker/IdWorker.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/oyome/controller/OrdersController.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

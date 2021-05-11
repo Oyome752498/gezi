@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.oyome.resource.FileUpload",
+      "sourceType": "com.oyome.resource.FileUpload"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.iamge-server-url",
+      "type": "java.lang.String",
+      "sourceType": "com.oyome.resource.FileUpload"
+    },
+    {
+      "name": "file.iamge-url-face-location",
+      "type": "java.lang.String",
+      "sourceType": "com.oyome.resource.FileUpload"
+    }
+  ],
+  "hints": []
+}

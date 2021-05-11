@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<parent>
+		<artifactId>foodie-dev</artifactId>
+		<groupId>com.oyome</groupId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>foodie-dev-api</artifactId>
+		<!-- 打包war 【1】 -->
+	<!--	<packaging>war</packaging>-->
+	<!--
+		api -> service -> mapper -> pojo -> common
+		api  是可以使用 service,pojo和common中的api的
+		-->
+	<dependencies>
+		<dependency>
+			<groupId>com.oyome</groupId>
+			<artifactId>foodie-dev-service</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+
+
+	</dependencies>
+
+</project>

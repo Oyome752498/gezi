@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.oyome/foodie-dev.iml" filepath="$PROJECT_DIR$/com.oyome/foodie-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.oyome/foodie-dev-api/foodie-dev-api.iml" filepath="$PROJECT_DIR$/com.oyome/foodie-dev-api/foodie-dev-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.oyome/foodie-dev-common/foodie-dev-common.iml" filepath="$PROJECT_DIR$/com.oyome/foodie-dev-common/foodie-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.oyome/foodie-dev-mapper/foodie-dev-mapper.iml" filepath="$PROJECT_DIR$/com.oyome/foodie-dev-mapper/foodie-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.oyome/foodie-dev-pojo/foodie-dev-pojo.iml" filepath="$PROJECT_DIR$/com.oyome/foodie-dev-pojo/foodie-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.oyome/foodie-dev-service/foodie-dev-service.iml" filepath="$PROJECT_DIR$/com.oyome/foodie-dev-service/foodie-dev-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gogogo.iml" filepath="$PROJECT_DIR$/.idea/gogogo.iml" />
+    </modules>
+  </component>
+</project>
